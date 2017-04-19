@@ -1,5 +1,5 @@
 {
-  "name": "electrode-react-ssr-caching",
+  "name": "electrode-react-ssr-caching-fork",
   "version": "0.1.5",
   "description": "Optimize React SSR with profiling and component caching",
   "main": "lib/ssr-caching.js",
@@ -13,7 +13,7 @@
     "url": "git@github.com:electrode-io/electrode-react-ssr-caching.git"
   },
   "keywords": [],
-  "author": "Joel Chen <xchen@walmartlabs.com>",
+  "author": "Dmitry Ishkov <dimanrussian@gmail.com>",
   "license": "Apache-2.0",
   "optionalDependencies": {
     "farmhash": "^1.1.1"
